@@ -5,4 +5,7 @@
     <string name="login">登录</string>
     <string name="please_input_pwd">请输入密码</string>
     <string name="please_input_username">请输入用户名</string>
+    <string name="digits_username">0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_</string>
+    <string name="loadding">加载中...</string>
+
 </resources>

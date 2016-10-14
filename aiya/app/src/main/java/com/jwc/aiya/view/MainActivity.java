@@ -1,10 +1,11 @@
-package com.jwc.aiya;
+package com.jwc.aiya.view;
 
-import android.app.Activity;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class MainActivity extends Activity {
+import com.jwc.aiya.R;
+import com.jwc.aiya.base.BaseActivity;
+
+public class MainActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
